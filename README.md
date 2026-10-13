@@ -133,9 +133,7 @@ This helps identify whether the login workflow is working as expected.
 
 The framework can be extended in the future with:
 
-* Search page automation
 * Additional workflow test cases
-* Logout automation
 * Explicit waits for better stability
 * Test reporting
 * Support for multiple browsers
